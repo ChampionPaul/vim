@@ -1,2 +1,3 @@
-# vim
-sets for vim
+# vim ide配置
+
+
